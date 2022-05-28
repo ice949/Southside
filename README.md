@@ -1,63 +1,38 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Personal Portifolio
 
-> Description the project.
+> Justine Imasiku's Personal Portifolio Website.
 
 
 ## Built With
 
-- Major languages
+- HTML,CSS
 - Frameworks
-- Technologies used
+- Github, Linters
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://ice949.github.io/My-Portifolio/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+- Clone repository in your local machine 
+- git clone https://github.com/ice949/My-Portifolio
+- cd My-Portifolio
+- open `index.html` in your browser.
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Justine Imasiku**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
+- GitHub: [@ice949](https://github.com/ice949)
+- Twitter: [@justine_imasiku](https://twitter.com/justine_imasiku)
+- LinkedIn: [Justine Imasiku](https://www.linkedin.com/in/justine-imasiku-7a25881a5/)
 ## Show your support
 
 Give a ⭐️ if you like this project!
@@ -67,7 +42,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
