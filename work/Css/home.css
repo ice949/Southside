@@ -197,7 +197,7 @@ header a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: #e9e9f0;
+  background: #737399;
   border-radius: 10px;
   width: 30%;
   color: #191765;
@@ -209,6 +209,7 @@ header a {
 
 .home-news .news1 img {
   width: 90%;
+  height: 160px;
 }
 
 footer {
@@ -325,7 +326,7 @@ input {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: #e9e9f0;
+    background: #b9b9cf;
     border-radius: 10px;
     width: 95%;
     color: #191765;
